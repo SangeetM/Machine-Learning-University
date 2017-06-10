@@ -1,4 +1,10 @@
-# ML-University
+# Machine Learning University
+
+## What is it?
+
+This is my multi-month study plan for going from student developer to Machine Learning Engineer.
+
+---
 
 ## Basic Programming Skills:
 - [ ] [CS046 - Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046) 
@@ -18,21 +24,18 @@
 - [ ] [UD359 - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) 
 - [ ] [UD120 - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [CS271 - Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) 
-
-# Machine Learning by Georgia Tech :
 - [ ] [UD262 - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [UD741 - Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
 - [ ] [UD600 -Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
-
 - [ ] [UD919 - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [ ] [UD730 - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) 
 
 
-## ML Nanodegree Project Support:
-- [ ] [Project 1](https://classroom.udacity.com/courses/ud725-nd)
-- [ ] [Project 2](https://classroom.udacity.com/courses/ud726-nd)
-- [ ] [Project 3](https://classroom.udacity.com/courses/ud727-nd)
-- [ ] [Project 4](https://classroom.udacity.com/courses/ud728-nd)
+## ML Nanodegree Project Support Courses:
+- [ ] [Course 1](https://classroom.udacity.com/courses/ud725-nd)
+- [ ] [Course 2](https://classroom.udacity.com/courses/ud726-nd)
+- [ ] [Course 3](https://classroom.udacity.com/courses/ud727-nd)
+- [ ] [Course 4](https://classroom.udacity.com/courses/ud728-nd)
 
 
 ## Additional Courses:
