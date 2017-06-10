@@ -26,7 +26,7 @@ This is my multi-month study plan for going from student developer to Machine Le
 - [ ] [CS271 - Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) 
 - [ ] [UD262 - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [UD741 - Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
-- [ ] [UD600 -Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
+- [ ] [UD600 - Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 - [ ] [UD919 - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [ ] [UD730 - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) 
 
@@ -43,3 +43,7 @@ This is my multi-month study plan for going from student developer to Machine Le
 - [ ] [UD436 - Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [UD197 - Intro to Relational Database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [UD923 - Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+
+## Is it Done?
+
+No it is not yet reached it's state of maturity. I will be adding more learning materials throughout my journey. So stay tuned.
