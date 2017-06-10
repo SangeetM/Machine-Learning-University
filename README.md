@@ -1,14 +1,14 @@
 # ML-University
 
-1.[CS046]Intro to Java Programming 
+-[ ] [CS046 - Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046) 
 
-2.[UD036]Programming foundation with Python
+-[ ] [UD036 - Programming foundation with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
-3.Mathematical Background ::
-3.1.[ST101]Intro to statistics 
-3.2.[UD953]Linear Algebra Refresher Course 
-3.3.[UD827]Intro to Descriptive Statistics 
-3.4.[UD201]Intro to Inferential Statistics
+-[ ] Mathematical Background ::
+	- [ ] [ST101 - Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101) 
+	- [ ] [UD953 - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) 
+	- [ ] [UD827 - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) 
+	- [ ] [UD201 - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
 4.[UD170]Intro to data analysis
 	
