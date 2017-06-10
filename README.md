@@ -1,43 +1,46 @@
 # ML-University
 
--[ ] [CS046 - Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046) 
+- [ ] [CS046 - Intro to Java Programming](https://www.udacity.com/course/intro-to-java-programming--cs046) 
 
--[ ] [UD036 - Programming foundation with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+- [ ] [UD036 - Programming foundation with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 
--[ ] Mathematical Background ::
-	- [ ] [ST101 - Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101) 
-	- [ ] [UD953 - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) 
-	- [ ] [UD827 - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) 
-	- [ ] [UD201 - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
+ 
+- [ ] Mathematical Background:
+- [ ] [ST101 - Intro to statistics](https://www.udacity.com/course/intro-to-statistics--st101) 
+- [ ] [UD953 - Linear Algebra Refresher Course](https://www.udacity.com/course/linear-algebra-refresher-course--ud953) 
+- [ ] [UD827 - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) 
+- [ ] [UD201 - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
-4.[UD170]Intro to data analysis
+- [ ] [UD170 - Intro to data analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 	
-5.[UD651]Data Analysis with R by Facebook
+- [ ] [UD651 - Data Analysis with R by Facebook](https://www.udacity.com/course/data-analysis-with-r--ud651)
 
-6.[UD359]Intro to Data Science 
+- [ ] [UD359 - Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) 
 
-7.[UD120]Intro to Machine Learning
+- [ ] [UD120 - Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
-8.[CS271]Intro to Artificial Intelligence 
-
-9.Machine Learning by Georgia Tech ::
-9.1.[UD262]Machine Learning
-9.2.[UD741]Unsupervised Learning
-9.3.[UD600]Reinforcement Learning
-
-10.[UD919]Model Building and Validation
-
-11.[UD730]Deep Learning by Google 
+- [ ] [CS271 - Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) 
 
 
-12.ML Nanodegree Project Support  ::
-https://classroom.udacity.com/courses/ud725-nd
-https://classroom.udacity.com/courses/ud726-nd
-https://classroom.udacity.com/courses/ud727-nd
-https://classroom.udacity.com/courses/ud728-nd
+- [ ] Machine Learning by Georgia Tech :
+- [ ] [UD262 - Machine Learning](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] [UD741 - Unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+- [ ] [UD600 -Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 
-13.Additional Courses ::
-13.1.[Ud032]Data Wrangling with MongoDB
-13.2.[UD436]Computer Networking
-13.3.[UD197]Intro to Relational Database
-13.4.[UD923]Introduction to Operating Systems
+- [ ] [UD919 - Model Building and Validation](https://www.udacity.com/course/model-building-and-validation--ud919)
+
+- [ ] [UD730 - Deep Learning by Google](https://www.udacity.com/course/deep-learning--ud730) 
+
+
+- ML Nanodegree Project Support:
+- [ ] [Project 1](https://classroom.udacity.com/courses/ud725-nd)
+- [ ] [Project 2](https://classroom.udacity.com/courses/ud726-nd)
+- [ ] [Project 3](https://classroom.udacity.com/courses/ud727-nd)
+- [ ] [Project 4](https://classroom.udacity.com/courses/ud728-nd)
+
+
+- [ ] Additional Courses:
+- [ ] [Ud032 - Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
+- [ ] [UD436 - Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
+- [ ] [UD197 - Intro to Relational Database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+- [ ] [UD923 - Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
