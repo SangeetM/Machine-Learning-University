@@ -17,6 +17,11 @@ This is my multi-month study plan for going from student developer to Machine Le
 - [ ] [UD827 - Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) 
 - [ ] [UD201 - Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 
+## Important Mathematical Cheat Sheets:
+- [ ] [Linear Algebra](https://drive.google.com/open?id=0BwS9giEyf78VaVd4YWZUT25tTHc)
+- [ ] [Calculus](https://drive.google.com/open?id=0BwS9giEyf78VRjhzd3ZQS3QxTlk)
+- [ ] [Statistics](https://drive.google.com/open?id=0BwS9giEyf78VQU52eDF4WUxxc2s)
+
 
 ## Major Curriculum:
 - [ ] [UD170 - Intro to data analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
@@ -43,6 +48,13 @@ This is my multi-month study plan for going from student developer to Machine Le
 - [ ] [UD436 - Computer Networking](https://www.udacity.com/course/computer-networking--ud436)
 - [ ] [UD197 - Intro to Relational Database](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 - [ ] [UD923 - Introduction to Operating Systems](https://www.udacity.com/course/introduction-to-operating-systems--ud923)
+
+## Mathematics for Absolute Beginners:
+- [ ] [Khan Academy](https://www.khanacademy.org/math)
+
+## More Learning Resources:
+- [ ] [The Mathematics for Machine Learning by IBM](http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/)
+- [ ] [Deep Learning by Ian GoodFellow](https://drive.google.com/open?id=0BwS9giEyf78VTFhBVUxRU2NZTFE)
 
 ## Is it Done?
 
